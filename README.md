@@ -1,4 +1,4 @@
-# Assignment
+# Assignments
 In this repository contains my assignments
 
 # Python-List
